@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://sutharthanan.github.io/csb-p8d0mn/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://sutharthanan.github.io/csb-p8d0mn/static/js/main.983319db.chunk.js",
+    "main.js.map": "https://sutharthanan.github.io/csb-p8d0mn/static/js/main.983319db.chunk.js.map",
+    "runtime-main.js": "https://sutharthanan.github.io/csb-p8d0mn/static/js/runtime-main.d56b2a30.js",
+    "runtime-main.js.map": "https://sutharthanan.github.io/csb-p8d0mn/static/js/runtime-main.d56b2a30.js.map",
+    "static/js/2.df79ad36.chunk.js": "https://sutharthanan.github.io/csb-p8d0mn/static/js/2.df79ad36.chunk.js",
+    "static/js/2.df79ad36.chunk.js.map": "https://sutharthanan.github.io/csb-p8d0mn/static/js/2.df79ad36.chunk.js.map",
+    "index.html": "https://sutharthanan.github.io/csb-p8d0mn/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://sutharthanan.github.io/csb-p8d0mn/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.df79ad36.chunk.js.LICENSE.txt": "https://sutharthanan.github.io/csb-p8d0mn/static/js/2.df79ad36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d56b2a30.js",
+    "static/js/2.df79ad36.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.983319db.chunk.js"
+  ]
+}
